@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ClassLib\DeserializeConsoleApp\bin\Debug\DeserializeConsoleApp.exe.config
+C:\Users\User\source\repos\ClassLib\DeserializeConsoleApp\bin\Debug\DeserializeConsoleApp.exe
+C:\Users\User\source\repos\ClassLib\DeserializeConsoleApp\bin\Debug\DeserializeConsoleApp.pdb
+C:\Users\User\source\repos\ClassLib\DeserializeConsoleApp\bin\Debug\ClassLib.dll
+C:\Users\User\source\repos\ClassLib\DeserializeConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\ClassLib\DeserializeConsoleApp\bin\Debug\ClassLib.pdb
+C:\Users\User\source\repos\ClassLib\DeserializeConsoleApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\User\source\repos\ClassLib\DeserializeConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\ClassLib\DeserializeConsoleApp\obj\Debug\DeserializeConsoleApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ClassLib\DeserializeConsoleApp\obj\Debug\DeserializeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassLib\DeserializeConsoleApp\obj\Debug\DeserializeConsoleApp.csproj.CopyComplete
+C:\Users\User\source\repos\ClassLib\DeserializeConsoleApp\obj\Debug\DeserializeConsoleApp.exe
+C:\Users\User\source\repos\ClassLib\DeserializeConsoleApp\obj\Debug\DeserializeConsoleApp.pdb
